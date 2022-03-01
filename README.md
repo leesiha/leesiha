@@ -1,14 +1,12 @@
-# 이시하 Lee Siha
-
-
+### 👀 Profile 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesiha&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlice1030@gmail.com)](mailto:mlice1030@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/1eesiha/)](https://www.instagram.com/1eesiha/) 
 [![Blog Badge](http://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://blog.naver.com/mlice1030)
-### 👀 Profile 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<br/>
+#### 🔭 I’m currently working on ...<br/> 
+#### 🌱 I’m currently learning ...<br/>
+#### 👯 I’m looking to collaborate on ...
 <br>
 
 ### 💪 Skills

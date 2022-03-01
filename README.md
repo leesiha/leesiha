@@ -5,18 +5,24 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlice1030@gmail.com)](mailto:mlice1030@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/1eesiha/)](https://www.instagram.com/1eesiha/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/mlice1030)](https://blog.naver.com/mlice1030)
-
-<br>
-
-## Work experience 🤹‍♀️
-- (00.00 - 00.00) 경력 1
-- (19.00 - 19.00) 경력 2
-
-## Interest 👀
-- 🔭 I’m currently working on ...
+## Profile 👀
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<br>
+
+## Project experience 🤹‍♀️
+#### Personal project
+---
+- (21.07.11 - 21.07.29) [⟪WEB PAGE⟫ The first TO DO list that I made](https://github.com/leesiha/todo-list)
+- (21.08.12 - 21.09.01) [⟪WEB PAGE⟫ Cloning Naver Webtoon](https://github.com/leesiha/naver-webtoon)
+#### Team project
+---
+- (21.10.21 - 21.12.14) [⟪ANDROID APP⟫ A vocabulary app for students taking the CSAT. (Team project)](https://github.com/leesiha/sosiji-team-project)
+
+

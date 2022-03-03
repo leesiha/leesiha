@@ -4,9 +4,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/1eesiha/)](https://www.instagram.com/1eesiha/) 
 [![Blog Badge](http://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://blog.naver.com/mlice1030)
 <br/>
+
+<!--
 #### 🔭 I’m currently working on ...<br/> 
 #### 🌱 I’m currently learning ...<br/>
 #### 👯 I’m looking to collaborate on ...
+-->
 <br>
 
 ## 💪 Skills

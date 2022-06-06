@@ -42,6 +42,6 @@
 - (21.07.11 - 21.07.29) [⟪WEB PAGE⟫ The first TO DO list that I made](https://github.com/leesiha/todo-list)
 - (21.08.12 - 21.09.01) [⟪WEB PAGE⟫ Cloning Naver Webtoon](https://github.com/leesiha/naver-webtoon)
 #### Team
-- (21.10.21 - 21.12.14) [⟪ANDROID APP⟫ A vocabulary app for students taking the CSAT. (Team project)](https://github.com/leesiha/sosiji-team-project)
+- (21.10.21 - 21.12.14) [⟪ANDROID APP⟫ English vocabulary app (for students taking CSAT) (Team project)](https://github.com/leesiha/sosiji-team-project)
 
 
